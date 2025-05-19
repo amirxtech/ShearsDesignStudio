@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:cadetblue}
+
+#Logo {float:left;}
+#Icon {float: Right;}
+#navigation 
+{
+	clear:both; border-top:solid black 3px; 
+	border-bottom:solid black 3px;
+	word-spacing: 30px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	padding:10px;
+}
+
+#Tajuk {float:left; width:900px;}
+#Tajuk h1 {color:#AE600A; font-family:arial; border-bottom:solid black 1px;}
+#Tajuk1 h1 {color:#AE600A; font-family:arial; border-bottom:solid black 1px;}
+#Tajuk img {clear:both; width:250px; border:solid black 1px; padding:6px;margin-right:9px;}
+#footer {clear:both; border-top:solid black 2px; padding-bottom:300px;}
+#footer {font-family:arial;}
+#footer {text-align:center;}
+
+
+#LivingRoom {width:250px; border-top:solid red 10px; background-color:lightgrey;}
+#TraditionalRoom {width:250px; border-top:solid yellow 10px; background-color:lightgrey;}
+#ContemporaryRoom {width:250px; border-top:solid green 10px; background-color:lightgrey;}
+
+#LivingRoom, #ContemporaryRoom, #TraditionalRoom
+ {display: inline-block;
+  margin-right: 10px; /* space between the boxes */
+	 vertical-align: top; /* align at the top */}
+
+
+
+
+	
+
+#wrapper {background-color:white;width:900px; margin:0px auto;}
+#wrapper2 {background-color:white;width:950px; margin:0px auto; }
+
+
